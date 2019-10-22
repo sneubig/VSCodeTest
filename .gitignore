@@ -15,7 +15,7 @@ yarn-error.log*
 # Dependency directories
 node_modules/
 
-# Eslint cache
+# Eslint cach
 .eslintcache
 
 # MacOS system files
